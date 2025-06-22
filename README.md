@@ -11,9 +11,21 @@
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlanSilvaDev&bg_color=000000&color=7d06af&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+###
 
+###
+
+<div align="center">
+ <a href="https://www.instagram.com/allan.sx/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  <a/>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
 <div align="center">  
 <a href="https://www.instagram.com/allan.sx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/alan-silva-aa301a282/" target="_black"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
