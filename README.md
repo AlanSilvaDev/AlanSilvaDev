@@ -31,7 +31,7 @@
 
 
 ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,c,typescript,html,css&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,c,typescript&theme=light)](https://skillicons.dev)
 
  
 ### Tools:
