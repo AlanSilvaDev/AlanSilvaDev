@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Alan Silva</h1>
+<h3 align="center">Computer Engineering Student | AI & Machine Learning Enthusiast</h3>
+
+<p align="center">
+IT Intern focused on technical support and problem solving.<br>
+Currently studying Artificial Intelligence, Machine Learning and Data Science with Python.
+</p>
 <div align="center">
   <img height="239" src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzU2MjAxNjYsIm5iZiI6MTc3NTYxOTg2NiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDA4VDAzNDQyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM4NjdjM2U5YTE5NDE5ZDBkNTdlMmQ4ODhiN2I0OWRmMGUwZjljZWE2ODdiMmMwOWI5ZGE1YjJjYmM1ODJhY2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.KfH1D_slFa7XJ2FGsi7SW_sBrPLpQVIGXKl9IQdid9k"  />
 </div>
